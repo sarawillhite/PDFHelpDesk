@@ -15,5 +15,5 @@ Therefore, I'm opening up the **PDF Help Desk**. If you've got a question, and y
 1. There are no stupid questions.
 2. You must *at least* post a screen shot, if you can't post the actual file. I've got a cognitive impairment, so I and millions of others who consider themselves visual learners will benefit from it. Just be sure to provide an alt text, or we'll talk about you behind your back at CSUN. Well, those that can afford it. 
 3. Your answers are important even if you are wrong. If you learn something from this, the experience for end users will be that much better, trust me.
-4. Sarcasm is encouraged, but we're going to be following the **<a href="https://github.com/karlgroves/dontbeadick">Don't Be a Dick.</a>** rule system for now. You'll know when you're in violation when the community gives you 😕 on your comments.
+4. Sarcasm is encouraged, but we're going to be following the **<a href="https://github.com/karlgroves/dontbeadick">Don't Be a Dick</a>** rule system for now. You'll know when you're in violation when the community gives you 😕 on your comments.
 5. I'm only managing this thing. I want this to be as open as possible. I'm just some autistic asshole that reads ISO 32000 for fun.
